@@ -1,0 +1,6 @@
+environments:
+  test:
+    url:
+  prod:
+    url: https://ems.mticket.com.ua/provider/index
+
